@@ -2,7 +2,7 @@
 stock management web app is a versatile and user-friendly tool designed to efficiently handle stock data. It has been developed using a combination of web technologies, including HTML, CSS, JavaScript, and Next.js. Here's a detailed description of your stock management web app:
 1. Purpose:
   - My web app serves as a central platform for managing stock data. It caters to businesses or individuals looking to keep track of inventory and make necessary updates in a seamless manner.
-  - 
+    
 2. Key Features:
    - Insert Stock Data: Users can easily add new stock data to the system. This feature likely includes fields for item name, quantity, price, SKU (Stock Keeping Unit), and other relevant information.
    - Delete Stock: Users have the capability to remove items from their stock list. This is crucial for keeping inventory records up to date and removing items that are no longer in stock.
